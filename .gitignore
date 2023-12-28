@@ -10,3 +10,4 @@ yarn-error.log*
 .env.js
 .env.prod.js
 .vsidx
+.vs
